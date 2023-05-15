@@ -12,3 +12,11 @@ table, list, url link, image, 見出し, 強調
 |デフォルト|左寄せ|中央寄せ|右寄せ|
 |---|:---|:---:|---:|
 |default|left|center|right|
+
+●インライン表示
+`aws --version`
+
+●コードブロック
+```
+print("Hello World!")
+```
